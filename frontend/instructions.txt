@@ -1,0 +1,17 @@
+I typically separate CSS and JavaScript files for better organization and maintainability. 
+However, it seems that you prefer everything within a single index.html file for simplicity. 
+
+In this case, I’ve implemented the solution using vanilla React for states. 
+
+All this is self taught through YT, FCC, and stack-overflow around 2016-2017.
+If things don't conform to modern industry standards, more than happy to learn and change. 
+I've yet to taken 6080 as that is later on in my program
+
+Also have mild experience with Next-js, shad-cn component libraries, and tailwindCSS. 
+Not used here, seems a bit over kill
+
+Also have experience with: 
+- boostrap
+- jquery
+- SASS 
+- Redux 
